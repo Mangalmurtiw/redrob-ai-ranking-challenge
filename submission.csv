@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0046064,1,1.0,Senior NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0018499,2,0.983762,Senior Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0050454,3,0.972627,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0086022,4,0.966015,Senior Applied Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0041669,5,0.965377,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0093912,6,0.943281,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0018722,7,0.935916,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0079387,8,0.935684,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0018549,9,0.935336,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0077337,10,0.934582,Staff Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0036184,11,0.933828,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0009691,12,0.925477,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0041610,13,0.922171,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0086151,14,0.919852,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0044855,15,0.91759,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0046525,16,0.91614,Senior Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0007009,17,0.91585,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0057563,18,0.915328,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0087630,19,0.909413,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0069905,20,0.909239,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0081846,21,0.908543,Lead AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0009024,22,0.905701,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0064326,23,0.900307,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0080766,24,0.898858,Staff Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0008425,25,0.89851,Senior NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0007412,26,0.897756,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0005649,27,0.895552,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0068811,28,0.892362,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0083307,29,0.88952,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0062247,30,0.889462,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0065878,31,0.886969,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0027801,32,0.886621,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0081686,33,0.886563,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0088025,34,0.883895,Staff Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0010685,35,0.877747,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0039754,36,0.873978,Senior Applied Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0055905,37,0.87334,Senior Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0029367,38,0.871832,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0051292,39,0.86812,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0053695,40,0.865627,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0052682,41,0.865511,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0005260,42,0.865279,Senior NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0014440,43,0.863829,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0060054,44,0.863075,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0055992,45,0.860929,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0075249,46,0.859943,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0078492,47,0.857971,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0071974,48,0.851476,Senior AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0002025,49,0.851302,Senior AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0006557,50,0.850142,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0070398,51,0.847242,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0061265,52,0.84672,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0031593,53,0.846256,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0000031,54,0.846198,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0044883,55,0.842951,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0039383,56,0.842371,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0030953,57,0.842023,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0013613,58,0.840457,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0020877,59,0.839993,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0011687,60,0.839413,Senior NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0033861,61,0.83489,Senior NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0098846,62,0.834658,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0096172,63,0.832512,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0075574,64,0.829728,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0028793,65,0.822711,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0010257,66,0.820913,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0037566,67,0.819115,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0091909,68,0.818999,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0050876,69,0.818883,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0072660,70,0.816273,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0017960,71,0.814475,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0066999,72,0.811866,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0044222,73,0.810706,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0041568,74,0.810184,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0030031,75,0.808676,AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0027691,76,0.802355,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0061655,77,0.802355,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0079064,78,0.802355,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0036863,79,0.801485,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0010770,80,0.795395,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0096142,81,0.795395,Applied ML Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0011162,82,0.792206,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0076163,83,0.786638,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0037980,84,0.78542,Senior Applied Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0052328,85,0.783564,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0040887,86,0.783042,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0081053,87,0.781883,NLP Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0040117,88,0.781187,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0094759,89,0.780549,Lead AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0036437,90,0.780433,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0061339,91,0.780433,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0051615,92,0.780375,Search Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0005509,93,0.780143,Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0026532,94,0.779621,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0030827,95,0.777939,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0006567,96,0.775213,Senior AI Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0078002,97,0.774575,Machine Learning Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0077285,98,0.774459,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
+CAND_0047721,99,0.772139,Senior Data Scientist; retrieval/ranking experience; strong behavioral signals
+CAND_0054394,100,0.769182,Recommendation Systems Engineer; retrieval/ranking experience; strong behavioral signals
