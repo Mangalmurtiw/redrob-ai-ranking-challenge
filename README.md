@@ -1,4 +1,15 @@
-# redrob-ai-ranking-challenge
+# Redrob AI Ranking Challenge
 
-Dataset files are excluded from this repository.
-Place candidates.jsonl in the project root before running.
+## Approach
+- Experience fit scoring
+- Retrieval & ranking signals
+- AI/ML skill matching
+- Behavioral signals
+- Deterministic tie-breaking
+
+## Run
+
+Place candidates.jsonl in project root.
+
+bash
+python rank_candidates_v4.py
