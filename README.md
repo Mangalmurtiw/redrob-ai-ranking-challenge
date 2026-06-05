@@ -11,5 +11,5 @@
 
 Place candidates.jsonl in project root.
 
-bash
+```bash
 python rank_candidates_v4.py
